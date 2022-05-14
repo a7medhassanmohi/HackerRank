@@ -1,7 +1,9 @@
-## solve HackerRank problem
+# solve HackerRank problem
 
 ### Index
-1-Staircase \n
-2-Time conversion \n
-3- Grading Students 
 
+#### 1-Staircase <br />
+
+#### 2-Time conversion <br />
+
+#### 3- Grading Students <br />
