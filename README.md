@@ -10,6 +10,10 @@
 
 #### 4- Number Line Jumps <br />
 #### 5- Apple and Orange <br />
+#### 6- Between Two Sets <br />
+#### 7- Breaking the Records <br />
+#### 8- Subarray Division <br />
+
 
 
 
