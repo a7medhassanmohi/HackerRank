@@ -17,6 +17,24 @@
 #### 10- Migratory Birds <br />
 #### 11- Day of the Programmer <br />
 #### 12- Bill Division <br />
+#### 13- Sales by Match <br />
+#### 14- Drawing Book <br />
+#### 15- Counting Valleys <br />
+#### 16- Electronics Shop <br />
+#### 17- Cats and a Mouse <br />
+#### 18- Picking Numbers <br />
+#### 19- The Hurdle Race <br />
+#### 20- Designer PDF Viewer <br />
+#### 21- Utopian Tree <br />
+#### 22- Angry Professor <br />
+#### 23- Beautiful Days at the Movies <br />
+#### 24- Save the Prisoner! <br />
+#### 25- Circular Array Rotation <br />
+#### 26- Find Digits <br />
+#### 27- Extra Long Factorials <br />
+#### 28- Sherlock and Squares <br />
+
+
 
 
 
